@@ -1,8 +1,6 @@
 @font-face {
-  font-family: 'MyFont';
-  src: url('./Roboto-Regular.ttf') format('tff');
-  font-weight: 600;
-  font-style: normal;
+    font-family: 'MyFont';
+    src: url('./Roboto-Regular.ttf');
 }
 
 * {
